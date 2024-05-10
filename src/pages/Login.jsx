@@ -94,6 +94,10 @@ const Login = () => {
                 label="submit"
                 className=" w-full h-10 bg-blue-700 text-white"
               />
+
+              <p className="text-center text-red-500 text-xl mt-3">Use Google Login These Functionality Not Work</p>
+
+              
             </div>
             <hr />
 
